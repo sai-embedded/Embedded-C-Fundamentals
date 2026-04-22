@@ -10,8 +10,6 @@ gcc filename.c -o out && ./out
   ▪️Control flow (if/else, loops)
 ⭐arrays-strings/
   ▪️Basics
-  ▪️Hashmap
-  ▪️Big O concepts 
 ⭐pointers/
   ▪️Pointer basics
   ▪️Pointer arithmmetic
